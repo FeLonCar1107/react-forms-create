@@ -1,0 +1,17 @@
+.store-table-container2{
+    width: 40%;
+    margin-top: 60px;
+    margin-left: 100px;
+    min-height: 500px;
+    border: 1px solid orange;
+    background-color:teal;
+    text-align: justify;
+}
+
+.forms2{
+    margin-top: 20px;
+    margin-left: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: unset;
+}

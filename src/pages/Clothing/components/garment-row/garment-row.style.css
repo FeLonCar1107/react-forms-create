@@ -1,0 +1,11 @@
+.garment-row-container{
+    width: 50%;
+    border: 2px solid rgb(153, 185, 255);
+    text-align: center;
+    background-color: silver;
+}
+
+.garment-size{
+    color:silver;
+    font-weight: bold;
+}

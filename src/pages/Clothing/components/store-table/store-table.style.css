@@ -1,0 +1,17 @@
+.store-table-container{
+    width: 40%;
+    margin-top: 60px;
+    margin-left: 90px;
+    min-height: 100px;
+    border: 1px solid orange;
+    background-color:teal;
+    text-align: justify;
+}
+
+.forms{
+    margin-top: 20px;
+    margin-left: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
